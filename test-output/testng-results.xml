@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="69169" started-at="2017-01-15T15:46:52Z" finished-at="2017-01-15T15:48:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="69169" started-at="2017-01-15T15:46:52Z" finished-at="2017-01-15T15:48:01Z">
+      <class name="com.SeleniumEasy.TestCases.DropdownTest">
+        <test-method status="PASS" signature="StartUp()[pri:0, instance:com.SeleniumEasy.TestCases.DropdownTest@28feb3fa]" name="StartUp" is-config="true" duration-ms="14688" started-at="2017-01-15T21:16:52Z" finished-at="2017-01-15T21:17:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartUp -->
+        <test-method status="PASS" signature="DropdownCase1()[pri:1, instance:com.SeleniumEasy.TestCases.DropdownTest@28feb3fa]" name="DropdownCase1" duration-ms="599" started-at="2017-01-15T21:17:06Z" finished-at="2017-01-15T21:17:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DropdownCase1 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.SeleniumEasy.TestCases.DropdownTest@28feb3fa]" name="TearDown" is-config="true" duration-ms="635" started-at="2017-01-15T21:17:07Z" finished-at="2017-01-15T21:17:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="StartUp()[pri:0, instance:com.SeleniumEasy.TestCases.DropdownTest@28feb3fa]" name="StartUp" is-config="true" duration-ms="11649" started-at="2017-01-15T21:17:08Z" finished-at="2017-01-15T21:17:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartUp -->
+        <test-method status="PASS" signature="DropdownCase2()[pri:2, instance:com.SeleniumEasy.TestCases.DropdownTest@28feb3fa]" name="DropdownCase2" duration-ms="809" started-at="2017-01-15T21:17:19Z" finished-at="2017-01-15T21:17:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DropdownCase2 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.SeleniumEasy.TestCases.DropdownTest@28feb3fa]" name="TearDown" is-config="true" duration-ms="491" started-at="2017-01-15T21:17:20Z" finished-at="2017-01-15T21:17:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="StartUp()[pri:0, instance:com.SeleniumEasy.TestCases.DropdownTest@28feb3fa]" name="StartUp" is-config="true" duration-ms="11791" started-at="2017-01-15T21:17:21Z" finished-at="2017-01-15T21:17:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartUp -->
+        <test-method status="PASS" signature="DropdownCase3()[pri:3, instance:com.SeleniumEasy.TestCases.DropdownTest@28feb3fa]" name="DropdownCase3" duration-ms="1116" started-at="2017-01-15T21:17:32Z" finished-at="2017-01-15T21:17:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DropdownCase3 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.SeleniumEasy.TestCases.DropdownTest@28feb3fa]" name="TearDown" is-config="true" duration-ms="517" started-at="2017-01-15T21:17:33Z" finished-at="2017-01-15T21:17:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="StartUp()[pri:0, instance:com.SeleniumEasy.TestCases.DropdownTest@28feb3fa]" name="StartUp" is-config="true" duration-ms="11590" started-at="2017-01-15T21:17:34Z" finished-at="2017-01-15T21:17:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartUp -->
+        <test-method status="PASS" signature="DropdownCase4()[pri:4, instance:com.SeleniumEasy.TestCases.DropdownTest@28feb3fa]" name="DropdownCase4" duration-ms="1100" started-at="2017-01-15T21:17:46Z" finished-at="2017-01-15T21:17:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DropdownCase4 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.SeleniumEasy.TestCases.DropdownTest@28feb3fa]" name="TearDown" is-config="true" duration-ms="728" started-at="2017-01-15T21:17:47Z" finished-at="2017-01-15T21:17:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="StartUp()[pri:0, instance:com.SeleniumEasy.TestCases.DropdownTest@28feb3fa]" name="StartUp" is-config="true" duration-ms="11484" started-at="2017-01-15T21:17:47Z" finished-at="2017-01-15T21:17:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartUp -->
+        <test-method status="PASS" signature="DropdownCase5()[pri:5, instance:com.SeleniumEasy.TestCases.DropdownTest@28feb3fa]" name="DropdownCase5" duration-ms="987" started-at="2017-01-15T21:17:59Z" finished-at="2017-01-15T21:18:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DropdownCase5 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.SeleniumEasy.TestCases.DropdownTest@28feb3fa]" name="TearDown" is-config="true" duration-ms="944" started-at="2017-01-15T21:18:00Z" finished-at="2017-01-15T21:18:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.SeleniumEasy.TestCases.DropdownTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
